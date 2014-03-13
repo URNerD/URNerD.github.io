@@ -2,6 +2,10 @@ body {
 	font-family: Helvetica, Verdana, sans-serif;
 }
 
+nav {
+	background-color: green;
+}
+
 ul {
 	list-style-type: none;
 	margin: 0;
