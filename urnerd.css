@@ -2,12 +2,6 @@ body {
 	font-family: Helvetica, Verdana, sans-serif;
 }
 
-div {
-	margin: 20px;
-	padding: 10px;
-	background-color: green;
-}
-
 ul {
 	list-style-type: none;
 	margin: 0;
@@ -19,9 +13,11 @@ li {
 }
 
 a {
+	/*
 	display: block;
 	width: 60px;
 	background-color: red;
 	padding: 10px;
 	margin: 2px;
+	*/
 }
