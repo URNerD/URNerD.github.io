@@ -2,7 +2,7 @@ body {
 	font-family: Helvetica, Verdana, sans-serif;
 }
 
-#main_navigation {
+div {
 	background-color: green;
 }
 
